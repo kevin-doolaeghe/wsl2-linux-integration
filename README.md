@@ -75,14 +75,13 @@ kex --esm --ip -s
 kex --sl -s
 ```
 
-* Windows terminal configuration :
+* Add following configuration to Windows terminal configuration JSON file :
 ```
 {
         "guid": "{55ca431a-3a87-5fb3-83cd-11ececc031d2}",
         "hidden": false,
-        "icon": "file:///c:/users/<windows user>/pictures/icons/kali-menu.png",
         "name": "Win-KeX",
         "commandline": "wsl -d kali-linux kex --sl --wtstart -s",
-        "startingDirectory" : "//wsl$/kali-linux/home/<kali user>"
+        "startingDirectory" : "//wsl$/kali-linux/home/kevin"
 },
 ```
