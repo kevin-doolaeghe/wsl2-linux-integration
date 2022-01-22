@@ -2,11 +2,11 @@
 
 ## References
 
-* (WSL Documentation)[https://docs.microsoft.com/fr-fr/windows/wsl/]
-* (Activate WSL on Windows)[https://lecrabeinfo.net/installer-wsl-windows-subsystem-for-linux-sur-windows-10.html]
-* (Docker Desktop WSL2 integration on Windows)[https://docs.docker.com/desktop/windows/wsl/]
-* (Share USB devices with Hyper-V and WSL guests)[https://github.com/dorssel/usbipd-win]
-* (Kali Linux desktop integration)[https://www.kali.org/docs/wsl/win-kex/]
+* [WSL Documentation](https://docs.microsoft.com/fr-fr/windows/wsl/)
+* [Activate WSL on Windows](https://lecrabeinfo.net/installer-wsl-windows-subsystem-for-linux-sur-windows-10.html)
+* [Docker Desktop WSL2 integration on Windows](https://docs.docker.com/desktop/windows/wsl/)
+* [Share USB devices with Hyper-V and WSL guests](https://github.com/dorssel/usbipd-win)
+* [Kali Linux desktop integration](https://www.kali.org/docs/wsl/win-kex/)
 
 ## Share USB devices with WSL machines
 
