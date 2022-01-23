@@ -7,6 +7,7 @@
 * [Docker Desktop WSL2 integration on Windows](https://docs.docker.com/desktop/windows/wsl/)
 * [Share USB devices with Hyper-V and WSL guests](https://github.com/dorssel/usbipd-win)
 * [Kali Linux desktop integration](https://www.kali.org/docs/wsl/win-kex/)
+* [Kali Linux Metapackages](https://www.kali.org/docs/general-use/metapackages/)
 
 ## Share USB devices with WSL machines
 
